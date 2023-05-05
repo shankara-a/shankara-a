@@ -1,6 +1,6 @@
 ### 👋 Hi my name is Shankara Anand
 
-I am a third year medical student at Boston University and associate computational biologist at the Broad Institute of MIT & Harvard.
+I am a rising fourth year medical student at Boston University and associate computational biologist at the Broad Institute of MIT & Harvard.
 
 I am passionate about:
 - 🧬 Cancer Biology
