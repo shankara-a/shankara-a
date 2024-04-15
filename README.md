@@ -1,6 +1,6 @@
 ### 👋 Hi my name is Shankara Anand
 
-I am a fourth year medical student at Boston University and associate computational biologist at the Broad Institute of MIT & Harvard. I am applying into internal medicine for the upcoming 2024 ERAS cycle.
+I am a fourth year medical student at Boston University and associate computational biologist at the Broad Institute of MIT & Harvard.
 
 I am passionate about:
 - 🧬 Cancer Biology
