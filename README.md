@@ -1,6 +1,6 @@
 ### 👋 Hi my name is Shankara Anand
 
-I am a PGY-2 in Internal Medicine at Stanford, part of the Translational Investigator Pathway in Hematology/Oncology.
+I am a PGY-2 in Internal Medicine and incoming Hematology/Oncology Fellow at Stanford, part of the Translational Investigator Pathway.
 
 I am passionate about:
 - 🧬 Cancer Biology & Plasma Cell Dyscrasias
